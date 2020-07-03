@@ -11,7 +11,7 @@
 ### 代理模式
     proxy
 ### 原型模式
-    proxy
+    prototype
 ### 中介者模式
     mediator
 ### 命令模式

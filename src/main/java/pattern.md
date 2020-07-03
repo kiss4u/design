@@ -11,7 +11,7 @@
 ### 代理模式
     proxy
 ### 原型模式
-    proxy
+    prototype
 ### 中介者模式
     mediator
 ### 命令模式
@@ -34,9 +34,13 @@
     iterator
 ### 组合模式
     composite
-    
-    
-    
+### 访问者模式
+    visitor
+### 状态模式
+    state
+### 解释器模式
+    interpreter
+
     
     
     
